@@ -1,0 +1,59 @@
+  /* Reset */
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  ul {
+    list-style: none;
+  }
+  body {
+    color: #333;
+    font-family: Helvetica,sans-serif;
+    font-size: 16px;
+  }
+  
+/* css code */
+
+/* set width and height of a table ! */
+.google_table{
+  margin: 30px 0 20px 350px;
+  height: 250px;
+  width: 600px;
+}
+
+.google_image{
+  width:45%;
+}
+
+/* contain for the icon  */
+.contain_google_input{
+  position: relative;
+}
+
+.bi-search{
+  position: absolute;
+  top: 9px;
+  left: 6px;
+} 
+.bi-mic{
+  position: absolute;
+  top: 7px;
+  right: 120px;
+}
+.google_input{
+  width: 80%;
+  margin: 5px 0;
+  border-radius: 30px;
+}
+a{
+  text-decoration: none;
+}
+.search_option{
+  border: 1px solid black;
+  padding: 2px;
+  background-color: #ebeef2;
+  border-radius: 10px;
+}
+.other_version_pa{
+  margin-top: 5px;
+}
